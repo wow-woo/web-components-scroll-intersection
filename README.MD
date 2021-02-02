@@ -4,7 +4,12 @@
 - scroll effect
 - lazy-loading
 
-### Behavior differs on options
+### [x] Behavior differs on options
 
+- all options are alright
 - chrome, brave [good support]
-- firefox [bad support]
+- firefox [bad support][x]
+
+### Consider not X-axis but Y-xis [caution]
+
+- target must be within observer's viewport not only X-axis but also Y-axis.
