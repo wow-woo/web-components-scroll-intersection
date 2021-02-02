@@ -6,10 +6,10 @@
 
 ### [x] Behavior differs on options
 
-- all options are alright
 - chrome, brave [good support]
-- firefox [bad support][x]
+- [x] firefox [bad support]
 
-### Consider not X-axis but Y-xis [caution]
+### Consider not X-axis but Y-xis [notice]
 
+- all options are alright on most browser
 - target must be within observer's viewport not only X-axis but also Y-axis.
